@@ -1,0 +1,32 @@
+# This file was created Fri Sep 25 00:58:32 2026
+# Created by:
+#                       :-) GROMACS - gmx rmsf, 2024.2 (-:
+# 
+# Executable:   /home/dr_abbasi/softwares/gromacs-2024.2/gromacs-gpu/bin/gmx
+# Data prefix:  /home/dr_abbasi/softwares/gromacs-2024.2/gromacs-gpu
+# Working dir:  /home/dr_abbasi/Reihane Salamat/DDSt15/gromacs
+# Command line:
+#   gmx rmsf -s prod.tpr -f prod.xtc -o rmsf_ddst15.xvg -res -b 0 -e 50000
+# gmx rmsf is part of G R O M A C S:
+#
+# GROtesk MACabre and Sinister
+#
+@    title "RMS fluctuation"
+@    xaxis  label "Residue"
+@    yaxis  label "(nm)"
+@TYPE xy
+   20   0.4162
+   21   0.2169
+   22   0.1549
+   23   0.1481
+   24   0.1397
+   25   0.1566
+   26   0.1810
+   27   0.1340
+   28   0.2412
+   29   0.2399
+   30   0.1666
+   31   0.1603
+   32   0.4332
+   33   0.3775
+   34   0.5483
